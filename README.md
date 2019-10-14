@@ -5,6 +5,21 @@
 3] Machining learning for project and learning in Python.<br>
 4] Docker related books
 
+
+#### Statistics
+* [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
+* [An Introduction to R](http://cran.r-project.org/doc/manuals/R-intro.pdf) - W. N. Venables, D. M. Smith, and the R Core Team 
+* [Analyzing Linguistic Data: a practical introduction to statistics](http://www.ualberta.ca/~baayen/publications/baayenCUPstats.pdf) - R. H. Baayan 
+* [Applied Data Science](http://columbia-applied-data-science.github.io/appdatasci.pdf) - Ian Langmore and Daniel Krasner - 
+* [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) - Richard Lowry
+* [Forecasting: Principles and Practice](https://www.otexts.org/fpp/) - Rob J. Hyndman and George Athanasopoulos
+* [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/pdf.html) - Charles M. Grinstead and J. Laurie Snell
+* [Introduction to Statistical Thought](http://www.math.umass.edu/~lavine/Book/book.pdf) - Michael Lavine
+* [OpenIntro Statistics - Second Edition](http://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, and Mine Cetinkaya-Rundel
+* [simpleR - Using R for Introductory Statistics](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf) - John Verzani 
+* [Statistics](http://upload.wikimedia.org/wikipedia/commons/8/82/Statistics.pdf)
+* [Think Stats: Probability and Statistics for Programmers v2.0](http://greenteapress.com/thinkstats2/thinkstats2.pdf) - Allen B. Downey 
+* [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/) - Bradley Efron and Trevor Hastie
 ### Data Science Introduction
 * [Data Science: An Introduction](http://en.wikibooks.org/wiki/Data_Science:_An_Introduction) - Wikibook -
 * [Disruptive Possibilities: How Big Data Changes Everything](http://www.amazon.com/Disruptive-Possibilities-Data-Changes-Everything-ebook/dp/B00CLH387W) - Jeffrey Needham 
@@ -28,20 +43,7 @@
 * [Network Science](http://barabasilab.neu.edu/networksciencebook/downlPDF.html) - Sarah Morrison 
 * [The Wealth of Networks](http://www.benkler.org/Benkler_Wealth_Of_Networks.pdf) - Yochai Benkler 
 
-#### Statistics
-* [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
-* [An Introduction to R](http://cran.r-project.org/doc/manuals/R-intro.pdf) - W. N. Venables, D. M. Smith, and the R Core Team 
-* [Analyzing Linguistic Data: a practical introduction to statistics](http://www.ualberta.ca/~baayen/publications/baayenCUPstats.pdf) - R. H. Baayan 
-* [Applied Data Science](http://columbia-applied-data-science.github.io/appdatasci.pdf) - Ian Langmore and Daniel Krasner - 
-* [Concepts and Applications of Inferential Statistics](http://vassarstats.net/textbook/) - Richard Lowry
-* [Forecasting: Principles and Practice](https://www.otexts.org/fpp/) - Rob J. Hyndman and George Athanasopoulos
-* [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/pdf.html) - Charles M. Grinstead and J. Laurie Snell
-* [Introduction to Statistical Thought](http://www.math.umass.edu/~lavine/Book/book.pdf) - Michael Lavine
-* [OpenIntro Statistics - Second Edition](http://www.openintro.org/stat/textbook.php) - David M. Diez, Christopher D. Barr, and Mine Cetinkaya-Rundel
-* [simpleR - Using R for Introductory Statistics](http://cran.r-project.org/doc/contrib/Verzani-SimpleR.pdf) - John Verzani 
-* [Statistics](http://upload.wikimedia.org/wikipedia/commons/8/82/Statistics.pdf)
-* [Think Stats: Probability and Statistics for Programmers v2.0](http://greenteapress.com/thinkstats2/thinkstats2.pdf) - Allen B. Downey 
-* [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/) - Bradley Efron and Trevor Hastie
+
 
 #### Data Mining books for the Data scince pre processing
 * [Data Mining and Analysis: Fundamental Concepts and Algorithms](https://repo.palkeo.com/algo/information-retrieval/Data%20mining%20and%20analysis.pdf) - Mohammed J. Zaki and Wagner Meira Jr. 
