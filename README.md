@@ -5,6 +5,7 @@
 3] Machining learning for project and learning in Python.<br>
 4] Docker related books
 
+Upcoming Books collections -> Docker, Kubernetes, AWS, Cloud related ...
 
 #### Statistics
 * [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/ADAfaEPoV.pdf)
