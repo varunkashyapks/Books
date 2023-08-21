@@ -4,7 +4,7 @@
 2] Basically here project supported books are there <br>
 3] Machining learning for project and learning in Python.<br>
 4] Docker related books
-
+genai upcoming
 Upcoming Books collections -> Docker, Kubernetes, AWS, Cloud related ...
 
 #### Statistics
