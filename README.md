@@ -5,7 +5,9 @@
 3] Machining learning for project and learning in Python.<br>
 4] Docker related books
 
- genai upcoming..........
+ Books related to AI/ML/DL/GENAI
+
+
 Upcoming Books collections -> Docker, Kubernetes, AWS, Cloud related ...
 
 #### Statistics
