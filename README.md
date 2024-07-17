@@ -87,7 +87,7 @@ Upcoming Books collections -> Docker, Kubernetes, AWS, Cloud related ...
 * [Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/readings/MIT6_042JF10_notes.pdf) - Eric Lehman, Thomas Leighton, and Albert R. Meyer
 * [The Field Guide to Data Science](http://www.boozallen.com/media/file/The-Field-Guide-to-Data-Science.pdf)
 
-
+ 
 ### Other course era online related
 * [Data Mining with Weka](http://www.cs.waikato.ac.nz/ml/weka/mooc/dataminingwithweka/) - Ian H. Witten 
 * [Mining Massive Datasets](https://class.coursera.org/mmds-002) - Jeff Ullman, Jure Leskovec, Anand Rajaraman (Coursera)
